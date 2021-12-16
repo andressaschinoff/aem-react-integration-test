@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/static/css/main.2a17b812.chunk.css",
+    "main.js": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/static/js/main.b0c59867.chunk.js",
+    "main.js.map": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/static/js/main.b0c59867.chunk.js.map",
+    "runtime-main.js": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/static/js/runtime-main.0cc2fe32.js",
+    "runtime-main.js.map": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/static/js/runtime-main.0cc2fe32.js.map",
+    "static/js/2.f19d20bb.chunk.js": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/static/js/2.f19d20bb.chunk.js",
+    "static/js/2.f19d20bb.chunk.js.map": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/static/js/2.f19d20bb.chunk.js.map",
+    "index.html": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/index.html",
+    "precache-manifest.e3cbcca94afd12e0f119ae99906f79a7.js": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/precache-manifest.e3cbcca94afd12e0f119ae99906f79a7.js",
+    "service-worker.js": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/service-worker.js",
+    "static/css/main.2a17b812.chunk.css.map": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/static/css/main.2a17b812.chunk.css.map",
+    "static/js/2.f19d20bb.chunk.js.LICENSE.txt": "/etc.clientlibs/prudential/clientlibs/clientlib-react/resources/static/js/2.f19d20bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cc2fe32.js",
+    "static/js/2.f19d20bb.chunk.js",
+    "static/css/main.2a17b812.chunk.css",
+    "static/js/main.b0c59867.chunk.js"
+  ]
+}

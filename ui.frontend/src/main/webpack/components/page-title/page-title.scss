@@ -1,0 +1,36 @@
+@import "../../site/variables";
+
+.cmp-page-title {
+  margin: 0 18px 0 14px;
+
+  @media (min-width: $breakpoint-mobile-2) {
+    margin: 0 36px 0 31px;
+  }
+
+  &__title {
+    // font-family: $ff-prudential-modern-semicond;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1.24;
+    color: $color-primary-text;
+    margin-bottom: 2px;
+
+    @media (min-width: $breakpoint-mobile-2) {
+      font-size: 30px;
+      line-height: 1.07;
+      margin-bottom: 8px;
+    }
+  }
+
+  &__divider {
+    border: solid 0 $color-divider;
+    border-width: 0 0 1px 0;
+    margin: 0;
+  }
+}
+
+.cmp-page-title-style {
+  &__title--bigger .cmp-page-title__title {
+    font-size: 50px;
+  }
+}

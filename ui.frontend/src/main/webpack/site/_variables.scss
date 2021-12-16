@@ -1,0 +1,63 @@
+//== Font
+
+// $ff-open-sans:                  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $ff-prudential: 								"Prudential", serif;
+// $ff-prudential-modern: 					"Prudential Modern", Helvetica, Arial, sans-serif;
+// $ff-prudential-modern-semicond: "Prudential Modern SemiCond", "Prudential Modern", Helvetica, Arial, sans-serif;
+// $ff-prudential-modern-cond: 		"Prudential Modern Cond", "Prudential Modern", Helvetica, Arial, sans-serif;
+// $ff-lucida-grande:      				"Lucida Grande", "Prudential Modern", Helvetica, Arial, sans-serif;
+
+$font-size: 16px;
+$font-height: 1.5;
+
+//== Breakpoints
+$breakpoint-mobile-iphone5: 320px;
+$breakpoint-mobile-galaxys5: 360px;
+$breakpoint-mobile-iphone6: 415px;
+$breakpoint-mobile-iphonex-height: 812px;
+$breakpoint-mobile: 576px;
+$breakpoint-mobile-2: 768px;
+$breakpoint-mobile-landscape: 850px;
+$breakpoint-tablet: 992px;
+$breakpoint-max-tablet: 1366px;
+$breakpoint-tablet-landscape: 1024px;
+$breakpoint-desktop: 1200px;
+
+$container-max-width-sm: 540px;
+$container-max-width-md: 720px;
+$container-max-width-lg: 960px;
+$container-max-width-xl: 1140px;
+
+$max_col: 12;
+
+//== Color
+
+// Primary colors
+$color-primary: #07639d;
+$color-primary-text: #333333;
+$color-contrast-text: #ffffff;
+$color-pri-description: #1a1d1e;
+$color-1st-menu-bg: #2a3642;
+$color-footer-bg: #222222;
+$color-fullwidth-bg: #f2f2f2;
+$color-divider: #ebebeb;
+$color-pri-button: #1a4272;
+
+// Secondary colors
+$color-secondary: #002247;
+$color-secondary-text: #262626;
+$color-sec-description: #666666;
+$color-arrow: #cccccc;
+$color-banner-title: #fed301;
+$color-prud-link: #06c;
+$color-prud-link-sec: #999;
+
+// Normal mode
+$color-foreground: #202020;
+$color-background: #ffffff;
+$color-link: #2020e0;
+
+// Dark mode
+$color-foreground-dark: invert($color-foreground);
+$color-background-dark: invert($color-background);
+$color-link-dark: invert($color-link);
